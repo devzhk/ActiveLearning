@@ -1,0 +1,683 @@
+/usr/bin/python3.6 /home/yue/PycharmProjects/ActiveLearning/main.py
+device:cuda:0
+training batch number:0, train:0, valid:50000
+Unlabled pool max entropy:2.3022, min entropy:2.3022, delta:0.0000, Selection min entropy:2.3022
+training batch number:1, after selection train:1024, valid:48985
+epoch:0, Train Loss:2.162748, Train Acc:0.206055, Eval Loss: 2.527065, Eval Acc:0.153264
+epoch:1, Train Loss:1.893816, Train Acc:0.257812, Eval Loss: 2.379415, Eval Acc:0.256768
+epoch:2, Train Loss:1.768500, Train Acc:0.339844, Eval Loss: 2.012461, Eval Acc:0.263336
+epoch:3, Train Loss:1.711671, Train Acc:0.371094, Eval Loss: 1.843066, Eval Acc:0.337878
+epoch:4, Train Loss:1.628056, Train Acc:0.397461, Eval Loss: 1.827239, Eval Acc:0.348129
+epoch:5, Train Loss:1.649634, Train Acc:0.377930, Eval Loss: 1.964598, Eval Acc:0.301851
+epoch:6, Train Loss:1.589965, Train Acc:0.415039, Eval Loss: 1.919786, Eval Acc:0.337779
+epoch:7, Train Loss:1.506256, Train Acc:0.445312, Eval Loss: 1.746617, Eval Acc:0.353503
+training batch number:1, train:1024, valid:48985
+Unlabled pool max entropy:1.7351, min entropy:1.3607, delta:0.3744, Selection min entropy:1.6526
+training batch number:2, after selection train:2048, valid:47996
+epoch:8, Train Loss:1.664284, Train Acc:0.394043, Eval Loss: 1.694313, Eval Acc:0.380971
+epoch:9, Train Loss:1.595188, Train Acc:0.406738, Eval Loss: 1.728862, Eval Acc:0.384355
+epoch:10, Train Loss:1.521259, Train Acc:0.433105, Eval Loss: 1.633930, Eval Acc:0.411823
+epoch:11, Train Loss:1.454866, Train Acc:0.460449, Eval Loss: 1.601736, Eval Acc:0.441083
+epoch:12, Train Loss:1.436323, Train Acc:0.461426, Eval Loss: 1.729034, Eval Acc:0.399980
+epoch:13, Train Loss:1.344015, Train Acc:0.514648, Eval Loss: 1.529541, Eval Acc:0.466361
+epoch:14, Train Loss:1.325897, Train Acc:0.521484, Eval Loss: 1.721903, Eval Acc:0.424861
+epoch:15, Train Loss:1.305252, Train Acc:0.523926, Eval Loss: 1.471134, Eval Acc:0.468451
+epoch:16, Train Loss:1.233251, Train Acc:0.549805, Eval Loss: 1.483034, Eval Acc:0.490346
+training batch number:2, train:2048, valid:47996
+Unlabled pool max entropy:1.3301, min entropy:0.9462, delta:0.3840, Selection min entropy:1.2696
+training batch number:3, after selection train:3072, valid:47011
+epoch:17, Train Loss:1.315748, Train Acc:0.521810, Eval Loss: 1.418963, Eval Acc:0.499701
+epoch:18, Train Loss:1.253047, Train Acc:0.536784, Eval Loss: 1.493253, Eval Acc:0.495322
+epoch:19, Train Loss:1.179354, Train Acc:0.582682, Eval Loss: 1.281291, Eval Acc:0.552249
+epoch:20, Train Loss:1.125054, Train Acc:0.587240, Eval Loss: 1.291552, Eval Acc:0.542795
+epoch:21, Train Loss:1.068548, Train Acc:0.622070, Eval Loss: 1.315122, Eval Acc:0.551652
+epoch:22, Train Loss:0.997883, Train Acc:0.640299, Eval Loss: 1.311250, Eval Acc:0.571855
+epoch:23, Train Loss:0.967161, Train Acc:0.659180, Eval Loss: 1.278338, Eval Acc:0.587381
+epoch:24, Train Loss:0.947293, Train Acc:0.668945, Eval Loss: 1.109631, Eval Acc:0.614351
+epoch:25, Train Loss:0.891314, Train Acc:0.685547, Eval Loss: 1.179048, Eval Acc:0.608579
+epoch:26, Train Loss:0.854110, Train Acc:0.694010, Eval Loss: 1.175418, Eval Acc:0.619327
+training batch number:3, train:3072, valid:47011
+Unlabled pool max entropy:1.0525, min entropy:0.6126, delta:0.4399, Selection min entropy:0.9573
+training batch number:4, after selection train:4096, valid:46057
+epoch:27, Train Loss:0.900775, Train Acc:0.680420, Eval Loss: 1.215154, Eval Acc:0.600418
+epoch:28, Train Loss:0.861713, Train Acc:0.691895, Eval Loss: 1.133449, Eval Acc:0.625100
+epoch:29, Train Loss:0.797497, Train Acc:0.711670, Eval Loss: 1.064918, Eval Acc:0.636346
+epoch:30, Train Loss:0.751480, Train Acc:0.732910, Eval Loss: 1.068440, Eval Acc:0.653364
+epoch:31, Train Loss:0.697323, Train Acc:0.753662, Eval Loss: 0.974761, Eval Acc:0.681031
+epoch:32, Train Loss:0.664594, Train Acc:0.765137, Eval Loss: 1.008841, Eval Acc:0.676055
+epoch:33, Train Loss:0.666820, Train Acc:0.760254, Eval Loss: 0.995117, Eval Acc:0.678941
+epoch:34, Train Loss:0.596374, Train Acc:0.790771, Eval Loss: 1.052784, Eval Acc:0.670880
+epoch:35, Train Loss:0.568761, Train Acc:0.793213, Eval Loss: 1.360559, Eval Acc:0.637739
+epoch:36, Train Loss:0.572330, Train Acc:0.793701, Eval Loss: 1.046832, Eval Acc:0.672174
+training batch number:4, train:4096, valid:46057
+Unlabled pool max entropy:0.8676, min entropy:0.4214, delta:0.4462, Selection min entropy:0.7871
+training batch number:5, after selection train:5120, valid:45118
+epoch:37, Train Loss:0.647890, Train Acc:0.778125, Eval Loss: 0.949520, Eval Acc:0.705713
+epoch:38, Train Loss:0.585551, Train Acc:0.788867, Eval Loss: 0.933654, Eval Acc:0.712978
+epoch:39, Train Loss:0.542705, Train Acc:0.808203, Eval Loss: 1.215216, Eval Acc:0.659037
+epoch:40, Train Loss:0.503722, Train Acc:0.824805, Eval Loss: 0.925173, Eval Acc:0.722034
+epoch:41, Train Loss:0.489838, Train Acc:0.823438, Eval Loss: 0.914890, Eval Acc:0.726612
+epoch:42, Train Loss:0.445657, Train Acc:0.840625, Eval Loss: 0.948833, Eval Acc:0.712480
+epoch:43, Train Loss:0.438962, Train Acc:0.843555, Eval Loss: 0.918220, Eval Acc:0.735271
+epoch:44, Train Loss:0.401575, Train Acc:0.856836, Eval Loss: 0.956905, Eval Acc:0.725617
+epoch:45, Train Loss:0.362394, Train Acc:0.869531, Eval Loss: 1.015875, Eval Acc:0.721736
+epoch:46, Train Loss:0.373836, Train Acc:0.863477, Eval Loss: 1.017708, Eval Acc:0.723925
+training batch number:5, train:5120, valid:45118
+Unlabled pool max entropy:0.6415, min entropy:0.2528, delta:0.3887, Selection min entropy:0.5326
+training batch number:6, after selection train:6144, valid:44208
+epoch:47, Train Loss:0.482830, Train Acc:0.835612, Eval Loss: 0.928320, Eval Acc:0.729001
+epoch:48, Train Loss:0.408279, Train Acc:0.863607, Eval Loss: 0.902483, Eval Acc:0.751592
+epoch:49, Train Loss:0.353714, Train Acc:0.876790, Eval Loss: 0.968966, Eval Acc:0.734873
+epoch:50, Train Loss:0.376277, Train Acc:0.870117, Eval Loss: 1.000480, Eval Acc:0.715068
+epoch:51, Train Loss:0.311995, Train Acc:0.890462, Eval Loss: 0.921344, Eval Acc:0.751095
+epoch:52, Train Loss:0.304526, Train Acc:0.893555, Eval Loss: 0.819132, Eval Acc:0.770701
+epoch:53, Train Loss:0.289471, Train Acc:0.896159, Eval Loss: 1.012492, Eval Acc:0.732982
+epoch:54, Train Loss:0.274049, Train Acc:0.904460, Eval Loss: 1.004505, Eval Acc:0.748607
+epoch:55, Train Loss:0.258986, Train Acc:0.912109, Eval Loss: 0.945336, Eval Acc:0.749005
+epoch:56, Train Loss:0.226402, Train Acc:0.919434, Eval Loss: 1.001922, Eval Acc:0.744427
+epoch:57, Train Loss:0.213426, Train Acc:0.923991, Eval Loss: 1.015880, Eval Acc:0.744924
+training batch number:6, train:6144, valid:44208
+Unlabled pool max entropy:0.4782, min entropy:0.1640, delta:0.3142, Selection min entropy:0.4215
+training batch number:7, after selection train:7168, valid:43321
+epoch:58, Train Loss:0.371181, Train Acc:0.878627, Eval Loss: 0.937713, Eval Acc:0.752687
+epoch:59, Train Loss:0.303854, Train Acc:0.898019, Eval Loss: 0.880638, Eval Acc:0.754279
+epoch:60, Train Loss:0.265031, Train Acc:0.911691, Eval Loss: 0.807833, Eval Acc:0.776672
+epoch:61, Train Loss:0.233943, Train Acc:0.920619, Eval Loss: 0.878482, Eval Acc:0.767814
+epoch:62, Train Loss:0.216949, Train Acc:0.923131, Eval Loss: 0.901763, Eval Acc:0.771298
+epoch:63, Train Loss:0.200675, Train Acc:0.930106, Eval Loss: 0.991508, Eval Acc:0.755872
+epoch:64, Train Loss:0.200981, Train Acc:0.931641, Eval Loss: 0.991215, Eval Acc:0.769705
+epoch:65, Train Loss:0.189899, Train Acc:0.932896, Eval Loss: 1.040182, Eval Acc:0.759256
+epoch:66, Train Loss:0.179178, Train Acc:0.934989, Eval Loss: 1.038467, Eval Acc:0.760947
+epoch:67, Train Loss:0.143402, Train Acc:0.951451, Eval Loss: 1.044092, Eval Acc:0.765127
+epoch:68, Train Loss:0.164127, Train Acc:0.943778, Eval Loss: 0.993205, Eval Acc:0.772791
+epoch:69, Train Loss:0.147371, Train Acc:0.949637, Eval Loss: 1.000384, Eval Acc:0.775378
+training batch number:7, train:7168, valid:43321
+Unlabled pool max entropy:0.3831, min entropy:0.1315, delta:0.2516, Selection min entropy:0.3317
+training batch number:8, after selection train:8192, valid:42417
+epoch:70, Train Loss:0.262038, Train Acc:0.913818, Eval Loss: 0.904012, Eval Acc:0.779558
+epoch:71, Train Loss:0.207759, Train Acc:0.933228, Eval Loss: 0.917293, Eval Acc:0.784335
+epoch:72, Train Loss:0.175802, Train Acc:0.940552, Eval Loss: 0.886302, Eval Acc:0.784037
+epoch:73, Train Loss:0.170089, Train Acc:0.942627, Eval Loss: 0.916450, Eval Acc:0.786724
+epoch:74, Train Loss:0.144398, Train Acc:0.948975, Eval Loss: 0.918619, Eval Acc:0.784733
+epoch:75, Train Loss:0.149888, Train Acc:0.949097, Eval Loss: 0.867323, Eval Acc:0.797970
+epoch:76, Train Loss:0.131051, Train Acc:0.954102, Eval Loss: 0.910081, Eval Acc:0.785729
+epoch:77, Train Loss:0.115372, Train Acc:0.961426, Eval Loss: 0.903850, Eval Acc:0.802448
+epoch:78, Train Loss:0.105346, Train Acc:0.963745, Eval Loss: 1.013391, Eval Acc:0.790506
+epoch:79, Train Loss:0.111767, Train Acc:0.960693, Eval Loss: 1.052478, Eval Acc:0.784136
+epoch:80, Train Loss:0.116867, Train Acc:0.957520, Eval Loss: 0.968802, Eval Acc:0.791700
+epoch:81, Train Loss:0.103979, Train Acc:0.961670, Eval Loss: 0.995610, Eval Acc:0.793093
+training batch number:8, train:8192, valid:42417
+Unlabled pool max entropy:0.3300, min entropy:0.0843, delta:0.2457, Selection min entropy:0.2836
+training batch number:9, after selection train:9216, valid:41584
+epoch:82, Train Loss:0.224004, Train Acc:0.929145, Eval Loss: 0.831320, Eval Acc:0.800060
+epoch:83, Train Loss:0.154198, Train Acc:0.951172, Eval Loss: 0.873066, Eval Acc:0.799363
+epoch:84, Train Loss:0.139747, Train Acc:0.952365, Eval Loss: 0.868917, Eval Acc:0.802548
+epoch:85, Train Loss:0.114322, Train Acc:0.963976, Eval Loss: 0.871148, Eval Acc:0.808420
+epoch:86, Train Loss:0.100125, Train Acc:0.967665, Eval Loss: 0.857469, Eval Acc:0.813595
+epoch:87, Train Loss:0.104543, Train Acc:0.963650, Eval Loss: 0.926037, Eval Acc:0.803941
+epoch:88, Train Loss:0.098164, Train Acc:0.966688, Eval Loss: 0.981596, Eval Acc:0.799662
+epoch:89, Train Loss:0.103654, Train Acc:0.964301, Eval Loss: 0.945724, Eval Acc:0.800955
+epoch:90, Train Loss:0.099475, Train Acc:0.963759, Eval Loss: 0.964624, Eval Acc:0.804837
+epoch:91, Train Loss:0.088101, Train Acc:0.968533, Eval Loss: 0.968660, Eval Acc:0.807026
+epoch:92, Train Loss:0.080250, Train Acc:0.972331, Eval Loss: 0.917260, Eval Acc:0.810211
+epoch:93, Train Loss:0.097931, Train Acc:0.967014, Eval Loss: 1.007481, Eval Acc:0.794785
+training batch number:9, train:9216, valid:41584
+Unlabled pool max entropy:0.3181, min entropy:0.0850, delta:0.2332, Selection min entropy:0.2545
+training batch number:10, after selection train:10240, valid:40719
+epoch:94, Train Loss:0.185529, Train Acc:0.942773, Eval Loss: 0.918784, Eval Acc:0.794686
+epoch:95, Train Loss:0.124128, Train Acc:0.962695, Eval Loss: 0.790352, Eval Acc:0.817078
+epoch:96, Train Loss:0.099329, Train Acc:0.968359, Eval Loss: 0.828922, Eval Acc:0.815983
+epoch:97, Train Loss:0.102772, Train Acc:0.965820, Eval Loss: 0.854201, Eval Acc:0.816779
+epoch:98, Train Loss:0.093314, Train Acc:0.966699, Eval Loss: 0.823087, Eval Acc:0.823646
+epoch:99, Train Loss:0.088560, Train Acc:0.968945, Eval Loss: 0.887315, Eval Acc:0.815784
+epoch:100, Train Loss:0.074124, Train Acc:0.974707, Eval Loss: 0.896031, Eval Acc:0.820760
+epoch:101, Train Loss:0.076433, Train Acc:0.974414, Eval Loss: 1.064040, Eval Acc:0.799960
+epoch:102, Train Loss:0.081470, Train Acc:0.972949, Eval Loss: 0.998282, Eval Acc:0.813893
+epoch:103, Train Loss:0.077372, Train Acc:0.974512, Eval Loss: 0.935655, Eval Acc:0.810908
+epoch:104, Train Loss:0.066785, Train Acc:0.976562, Eval Loss: 0.964690, Eval Acc:0.813694
+epoch:105, Train Loss:0.057863, Train Acc:0.979297, Eval Loss: 1.017032, Eval Acc:0.814192
+epoch:106, Train Loss:0.073154, Train Acc:0.974414, Eval Loss: 0.919789, Eval Acc:0.815386
+training batch number:10, train:10240, valid:40719
+Unlabled pool max entropy:0.2629, min entropy:0.0587, delta:0.2042, Selection min entropy:0.2273
+training batch number:11, after selection train:11215, valid:39921
+epoch:107, Train Loss:0.159162, Train Acc:0.952302, Eval Loss: 0.896412, Eval Acc:0.807126
+epoch:108, Train Loss:0.100346, Train Acc:0.966797, Eval Loss: 0.794562, Eval Acc:0.828722
+epoch:109, Train Loss:0.086963, Train Acc:0.971591, Eval Loss: 0.820004, Eval Acc:0.828424
+epoch:110, Train Loss:0.076903, Train Acc:0.972923, Eval Loss: 0.849198, Eval Acc:0.829120
+epoch:111, Train Loss:0.077241, Train Acc:0.974231, Eval Loss: 1.024683, Eval Acc:0.806031
+epoch:112, Train Loss:0.072052, Train Acc:0.974674, Eval Loss: 0.881440, Eval Acc:0.827926
+epoch:113, Train Loss:0.074542, Train Acc:0.975231, Eval Loss: 0.880711, Eval Acc:0.824443
+epoch:114, Train Loss:0.056295, Train Acc:0.981333, Eval Loss: 0.929796, Eval Acc:0.830912
+epoch:115, Train Loss:0.082893, Train Acc:0.970857, Eval Loss: 0.898322, Eval Acc:0.823746
+epoch:116, Train Loss:0.077507, Train Acc:0.973076, Eval Loss: 0.948736, Eval Acc:0.823049
+epoch:117, Train Loss:0.055142, Train Acc:0.981978, Eval Loss: 0.967099, Eval Acc:0.825040
+epoch:118, Train Loss:0.052650, Train Acc:0.981664, Eval Loss: 0.923312, Eval Acc:0.828623
+epoch:119, Train Loss:0.058135, Train Acc:0.980114, Eval Loss: 0.948336, Eval Acc:0.823746
+epoch:120, Train Loss:0.043603, Train Acc:0.985174, Eval Loss: 0.946419, Eval Acc:0.825338
+training batch number:11, train:11215, valid:39921
+Unlabled pool max entropy:0.2254, min entropy:0.0361, delta:0.1893, Selection min entropy:0.1976
+training batch number:12, after selection train:12239, valid:39127
+epoch:121, Train Loss:0.151917, Train Acc:0.955485, Eval Loss: 0.877271, Eval Acc:0.816381
+epoch:122, Train Loss:0.084165, Train Acc:0.972472, Eval Loss: 0.844625, Eval Acc:0.819765
+epoch:123, Train Loss:0.078119, Train Acc:0.974262, Eval Loss: 0.871181, Eval Acc:0.827229
+epoch:124, Train Loss:0.068297, Train Acc:0.976400, Eval Loss: 0.840143, Eval Acc:0.834096
+epoch:125, Train Loss:0.045360, Train Acc:0.986247, Eval Loss: 0.868966, Eval Acc:0.829618
+epoch:126, Train Loss:0.057871, Train Acc:0.980691, Eval Loss: 0.898359, Eval Acc:0.830514
+epoch:127, Train Loss:0.065550, Train Acc:0.978494, Eval Loss: 0.893330, Eval Acc:0.823945
+epoch:128, Train Loss:0.057538, Train Acc:0.980447, Eval Loss: 0.928517, Eval Acc:0.834594
+epoch:129, Train Loss:0.068735, Train Acc:0.978027, Eval Loss: 0.883571, Eval Acc:0.834793
+epoch:130, Train Loss:0.042046, Train Acc:0.986491, Eval Loss: 0.837802, Eval Acc:0.845342
+epoch:131, Train Loss:0.053355, Train Acc:0.981689, Eval Loss: 0.931199, Eval Acc:0.830414
+epoch:132, Train Loss:0.042686, Train Acc:0.985352, Eval Loss: 0.908681, Eval Acc:0.832803
+epoch:133, Train Loss:0.044703, Train Acc:0.984516, Eval Loss: 1.036541, Eval Acc:0.822353
+epoch:134, Train Loss:0.081627, Train Acc:0.974040, Eval Loss: 0.903709, Eval Acc:0.834395
+training batch number:12, train:12239, valid:39127
+Unlabled pool max entropy:0.2495, min entropy:0.0350, delta:0.2145, Selection min entropy:0.1874
+training batch number:13, after selection train:13263, valid:38330
+epoch:135, Train Loss:0.106249, Train Acc:0.970102, Eval Loss: 0.814589, Eval Acc:0.832106
+epoch:136, Train Loss:0.077396, Train Acc:0.975190, Eval Loss: 0.794342, Eval Acc:0.839172
+epoch:137, Train Loss:0.058190, Train Acc:0.980599, Eval Loss: 0.820515, Eval Acc:0.836684
+epoch:138, Train Loss:0.058427, Train Acc:0.981370, Eval Loss: 0.872384, Eval Acc:0.834793
+epoch:139, Train Loss:0.046410, Train Acc:0.985031, Eval Loss: 0.915405, Eval Acc:0.837082
+epoch:140, Train Loss:0.050464, Train Acc:0.982928, Eval Loss: 0.874651, Eval Acc:0.837580
+epoch:141, Train Loss:0.056859, Train Acc:0.980449, Eval Loss: 0.895416, Eval Acc:0.835490
+epoch:142, Train Loss:0.045430, Train Acc:0.985051, Eval Loss: 0.927260, Eval Acc:0.836684
+epoch:143, Train Loss:0.042932, Train Acc:0.987079, Eval Loss: 0.877227, Eval Acc:0.839471
+epoch:144, Train Loss:0.043178, Train Acc:0.984300, Eval Loss: 0.923637, Eval Acc:0.838774
+epoch:145, Train Loss:0.034072, Train Acc:0.988787, Eval Loss: 0.898709, Eval Acc:0.840167
+epoch:146, Train Loss:0.055814, Train Acc:0.980674, Eval Loss: 0.902441, Eval Acc:0.834992
+epoch:147, Train Loss:0.054721, Train Acc:0.982026, Eval Loss: 0.856118, Eval Acc:0.840665
+epoch:148, Train Loss:0.040256, Train Acc:0.987079, Eval Loss: 0.924056, Eval Acc:0.837281
+training batch number:13, train:13263, valid:38330
+Unlabled pool max entropy:0.2268, min entropy:0.0364, delta:0.1904, Selection min entropy:0.1696
+training batch number:14, after selection train:14287, valid:37560
+epoch:149, Train Loss:0.116306, Train Acc:0.969029, Eval Loss: 0.780391, Eval Acc:0.835490
+epoch:150, Train Loss:0.065836, Train Acc:0.980399, Eval Loss: 0.738662, Eval Acc:0.847830
+epoch:151, Train Loss:0.041668, Train Acc:0.987286, Eval Loss: 0.776259, Eval Acc:0.848328
+epoch:152, Train Loss:0.052470, Train Acc:0.983291, Eval Loss: 0.954241, Eval Acc:0.823746
+epoch:153, Train Loss:0.056338, Train Acc:0.981585, Eval Loss: 0.825563, Eval Acc:0.844447
+epoch:154, Train Loss:0.045734, Train Acc:0.984724, Eval Loss: 0.793885, Eval Acc:0.851612
+epoch:155, Train Loss:0.045144, Train Acc:0.985073, Eval Loss: 0.791906, Eval Acc:0.847731
+epoch:156, Train Loss:0.035178, Train Acc:0.988421, Eval Loss: 0.818088, Eval Acc:0.851214
+epoch:157, Train Loss:0.034554, Train Acc:0.988002, Eval Loss: 0.891278, Eval Acc:0.839072
+epoch:158, Train Loss:0.052252, Train Acc:0.982752, Eval Loss: 0.943063, Eval Acc:0.839371
+epoch:159, Train Loss:0.050126, Train Acc:0.983747, Eval Loss: 0.869081, Eval Acc:0.843650
+epoch:160, Train Loss:0.037248, Train Acc:0.986886, Eval Loss: 0.814825, Eval Acc:0.848328
+epoch:161, Train Loss:0.029871, Train Acc:0.989676, Eval Loss: 0.867571, Eval Acc:0.841262
+epoch:162, Train Loss:0.030345, Train Acc:0.989816, Eval Loss: 0.839721, Eval Acc:0.846139
+epoch:163, Train Loss:0.031951, Train Acc:0.988890, Eval Loss: 0.890663, Eval Acc:0.841760
+training batch number:14, train:14287, valid:37560
+Unlabled pool max entropy:0.1894, min entropy:0.0304, delta:0.1590, Selection min entropy:0.1630
+training batch number:15, after selection train:15311, valid:36797
+epoch:164, Train Loss:0.102776, Train Acc:0.972135, Eval Loss: 0.744499, Eval Acc:0.852209
+epoch:165, Train Loss:0.059401, Train Acc:0.981445, Eval Loss: 0.746112, Eval Acc:0.851413
+epoch:166, Train Loss:0.038844, Train Acc:0.987695, Eval Loss: 0.774210, Eval Acc:0.847233
+epoch:167, Train Loss:0.036548, Train Acc:0.987873, Eval Loss: 0.818437, Eval Acc:0.849821
+epoch:168, Train Loss:0.038001, Train Acc:0.987109, Eval Loss: 0.766329, Eval Acc:0.851513
+epoch:169, Train Loss:0.039414, Train Acc:0.986879, Eval Loss: 0.825954, Eval Acc:0.847930
+epoch:170, Train Loss:0.048098, Train Acc:0.983464, Eval Loss: 0.806718, Eval Acc:0.848428
+epoch:171, Train Loss:0.026079, Train Acc:0.991780, Eval Loss: 0.848178, Eval Acc:0.848627
+epoch:172, Train Loss:0.041363, Train Acc:0.986684, Eval Loss: 0.829656, Eval Acc:0.848527
+epoch:173, Train Loss:0.051460, Train Acc:0.982812, Eval Loss: 0.829555, Eval Acc:0.846238
+epoch:174, Train Loss:0.029100, Train Acc:0.990234, Eval Loss: 0.787401, Eval Acc:0.856588
+epoch:175, Train Loss:0.027354, Train Acc:0.991146, Eval Loss: 0.827223, Eval Acc:0.855892
+epoch:176, Train Loss:0.027880, Train Acc:0.990039, Eval Loss: 0.845796, Eval Acc:0.856588
+epoch:177, Train Loss:0.030366, Train Acc:0.989388, Eval Loss: 0.954615, Eval Acc:0.841361
+epoch:178, Train Loss:0.031645, Train Acc:0.989648, Eval Loss: 0.906135, Eval Acc:0.849323
+epoch:179, Train Loss:0.031584, Train Acc:0.989128, Eval Loss: 0.877322, Eval Acc:0.851612
+training batch number:15, train:15311, valid:36797
+Unlabled pool max entropy:0.2056, min entropy:0.0140, delta:0.1916, Selection min entropy:0.1444
+training batch number:16, after selection train:16335, valid:36067
+epoch:180, Train Loss:0.093066, Train Acc:0.976363, Eval Loss: 0.716780, Eval Acc:0.855892
+epoch:181, Train Loss:0.051036, Train Acc:0.984298, Eval Loss: 0.730785, Eval Acc:0.854598
+epoch:182, Train Loss:0.043878, Train Acc:0.985535, Eval Loss: 0.861663, Eval Acc:0.837779
+epoch:183, Train Loss:0.036068, Train Acc:0.988892, Eval Loss: 0.794644, Eval Acc:0.849025
+epoch:184, Train Loss:0.033379, Train Acc:0.990096, Eval Loss: 0.791596, Eval Acc:0.851413
+epoch:185, Train Loss:0.031873, Train Acc:0.990202, Eval Loss: 0.780079, Eval Acc:0.854896
+epoch:186, Train Loss:0.040637, Train Acc:0.987288, Eval Loss: 0.816814, Eval Acc:0.851214
+epoch:187, Train Loss:0.034513, Train Acc:0.988464, Eval Loss: 0.822992, Eval Acc:0.851214
+epoch:188, Train Loss:0.025761, Train Acc:0.991012, Eval Loss: 0.912629, Eval Acc:0.847432
+epoch:189, Train Loss:0.038797, Train Acc:0.986816, Eval Loss: 0.820765, Eval Acc:0.851513
+epoch:190, Train Loss:0.024696, Train Acc:0.991577, Eval Loss: 0.821883, Eval Acc:0.857385
+epoch:191, Train Loss:0.039088, Train Acc:0.987349, Eval Loss: 0.854988, Eval Acc:0.853603
+epoch:192, Train Loss:0.026038, Train Acc:0.990417, Eval Loss: 0.828500, Eval Acc:0.858479
+epoch:193, Train Loss:0.021691, Train Acc:0.994019, Eval Loss: 0.917285, Eval Acc:0.846039
+epoch:194, Train Loss:0.025212, Train Acc:0.991333, Eval Loss: 0.919852, Eval Acc:0.850119
+epoch:195, Train Loss:0.030859, Train Acc:0.988875, Eval Loss: 0.883733, Eval Acc:0.852110
+training batch number:16, train:16335, valid:36067
+Unlabled pool max entropy:0.1714, min entropy:0.0130, delta:0.1584, Selection min entropy:0.1469
+training batch number:17, after selection train:17359, valid:35343
+epoch:196, Train Loss:0.086861, Train Acc:0.975471, Eval Loss: 0.748728, Eval Acc:0.850020
+epoch:197, Train Loss:0.042080, Train Acc:0.987822, Eval Loss: 0.805194, Eval Acc:0.846935
+epoch:198, Train Loss:0.029730, Train Acc:0.990694, Eval Loss: 0.773326, Eval Acc:0.857285
+epoch:199, Train Loss:0.027934, Train Acc:0.991081, Eval Loss: 0.764423, Eval Acc:0.861465
+epoch:200, Train Loss:0.029403, Train Acc:0.990349, Eval Loss: 0.827550, Eval Acc:0.856688
+epoch:201, Train Loss:0.028276, Train Acc:0.990636, Eval Loss: 0.848520, Eval Acc:0.853503
+epoch:202, Train Loss:0.031639, Train Acc:0.988511, Eval Loss: 0.823976, Eval Acc:0.859873
+epoch:203, Train Loss:0.032484, Train Acc:0.989143, Eval Loss: 0.787518, Eval Acc:0.854996
+epoch:204, Train Loss:0.026958, Train Acc:0.991713, Eval Loss: 0.830845, Eval Acc:0.849721
+epoch:205, Train Loss:0.033328, Train Acc:0.989028, Eval Loss: 0.881280, Eval Acc:0.851214
+epoch:206, Train Loss:0.022635, Train Acc:0.992073, Eval Loss: 0.859949, Eval Acc:0.859873
+epoch:207, Train Loss:0.025220, Train Acc:0.991081, Eval Loss: 0.876037, Eval Acc:0.859773
+epoch:208, Train Loss:0.028152, Train Acc:0.990292, Eval Loss: 0.845997, Eval Acc:0.856190
+epoch:209, Train Loss:0.025110, Train Acc:0.991326, Eval Loss: 0.862680, Eval Acc:0.857882
+epoch:210, Train Loss:0.021046, Train Acc:0.992877, Eval Loss: 0.859594, Eval Acc:0.862460
+epoch:211, Train Loss:0.025812, Train Acc:0.991525, Eval Loss: 0.879317, Eval Acc:0.856688
+training batch number:17, train:17359, valid:35343
+Unlabled pool max entropy:0.1793, min entropy:0.0037, delta:0.1756, Selection min entropy:0.1397
+training batch number:18, after selection train:18383, valid:34633
+epoch:212, Train Loss:0.074964, Train Acc:0.980360, Eval Loss: 0.678716, Eval Acc:0.859873
+epoch:213, Train Loss:0.039492, Train Acc:0.986802, Eval Loss: 0.721290, Eval Acc:0.866143
+epoch:214, Train Loss:0.028093, Train Acc:0.991862, Eval Loss: 0.722688, Eval Acc:0.861963
+epoch:215, Train Loss:0.028994, Train Acc:0.990585, Eval Loss: 0.776862, Eval Acc:0.863256
+epoch:216, Train Loss:0.032926, Train Acc:0.989963, Eval Loss: 0.779173, Eval Acc:0.858479
+epoch:217, Train Loss:0.023774, Train Acc:0.992296, Eval Loss: 0.799404, Eval Acc:0.862858
+epoch:218, Train Loss:0.024350, Train Acc:0.992227, Eval Loss: 0.770102, Eval Acc:0.865744
+epoch:219, Train Loss:0.029639, Train Acc:0.990614, Eval Loss: 0.782490, Eval Acc:0.863157
+epoch:220, Train Loss:0.027107, Train Acc:0.991048, Eval Loss: 0.863314, Eval Acc:0.851712
+epoch:221, Train Loss:0.019012, Train Acc:0.993761, Eval Loss: 0.786905, Eval Acc:0.865346
+epoch:222, Train Loss:0.017174, Train Acc:0.994737, Eval Loss: 0.907245, Eval Acc:0.856688
+epoch:223, Train Loss:0.025192, Train Acc:0.991591, Eval Loss: 0.890486, Eval Acc:0.859475
+epoch:224, Train Loss:0.022805, Train Acc:0.992444, Eval Loss: 0.868392, Eval Acc:0.859076
+epoch:225, Train Loss:0.026375, Train Acc:0.991048, Eval Loss: 0.790346, Eval Acc:0.864849
+epoch:226, Train Loss:0.018746, Train Acc:0.994018, Eval Loss: 0.809416, Eval Acc:0.861863
+epoch:227, Train Loss:0.023664, Train Acc:0.991699, Eval Loss: 0.870505, Eval Acc:0.857683
+epoch:228, Train Loss:0.022280, Train Acc:0.991808, Eval Loss: 0.830885, Eval Acc:0.863157
+training batch number:18, train:18383, valid:34633
+Unlabled pool max entropy:0.1567, min entropy:0.0073, delta:0.1494, Selection min entropy:0.1118
+training batch number:19, after selection train:19352, valid:33974
+epoch:229, Train Loss:0.062636, Train Acc:0.982329, Eval Loss: 0.782195, Eval Acc:0.851214
+epoch:230, Train Loss:0.030845, Train Acc:0.990254, Eval Loss: 0.779149, Eval Acc:0.859275
+epoch:231, Train Loss:0.021551, Train Acc:0.993812, Eval Loss: 0.744140, Eval Acc:0.865744
+epoch:232, Train Loss:0.023923, Train Acc:0.992677, Eval Loss: 0.796956, Eval Acc:0.862361
+epoch:233, Train Loss:0.020113, Train Acc:0.993709, Eval Loss: 0.778591, Eval Acc:0.862261
+epoch:234, Train Loss:0.022636, Train Acc:0.992488, Eval Loss: 0.791733, Eval Acc:0.861764
+epoch:235, Train Loss:0.023974, Train Acc:0.992162, Eval Loss: 0.823191, Eval Acc:0.860967
+epoch:236, Train Loss:0.030143, Train Acc:0.989893, Eval Loss: 0.850957, Eval Acc:0.858181
+epoch:237, Train Loss:0.022193, Train Acc:0.992179, Eval Loss: 0.843329, Eval Acc:0.864650
+epoch:238, Train Loss:0.021840, Train Acc:0.993399, Eval Loss: 0.865747, Eval Acc:0.858181
+epoch:239, Train Loss:0.026182, Train Acc:0.991027, Eval Loss: 0.839026, Eval Acc:0.856091
+epoch:240, Train Loss:0.020492, Train Acc:0.992781, Eval Loss: 0.839285, Eval Acc:0.865645
+epoch:241, Train Loss:0.015221, Train Acc:0.995153, Eval Loss: 0.897359, Eval Acc:0.863555
+epoch:242, Train Loss:0.021260, Train Acc:0.992781, Eval Loss: 0.837892, Eval Acc:0.863356
+epoch:243, Train Loss:0.017838, Train Acc:0.993863, Eval Loss: 0.861243, Eval Acc:0.862560
+epoch:244, Train Loss:0.021836, Train Acc:0.992987, Eval Loss: 0.882437, Eval Acc:0.859176
+epoch:245, Train Loss:0.019900, Train Acc:0.993142, Eval Loss: 0.883593, Eval Acc:0.860967
+epoch:246, Train Loss:0.021780, Train Acc:0.992781, Eval Loss: 0.835054, Eval Acc:0.859873
+training batch number:19, train:19352, valid:33974
+Unlabled pool max entropy:0.1596, min entropy:0.0048, delta:0.1547, Selection min entropy:0.1287
+training batch number:20, after selection train:20376, valid:33290
+epoch:247, Train Loss:0.059937, Train Acc:0.984424, Eval Loss: 0.686115, Eval Acc:0.865147
+epoch:248, Train Loss:0.029811, Train Acc:0.991085, Eval Loss: 0.709223, Eval Acc:0.863555
+epoch:249, Train Loss:0.023558, Train Acc:0.993094, Eval Loss: 0.659943, Eval Acc:0.873806
+epoch:250, Train Loss:0.016610, Train Acc:0.994808, Eval Loss: 0.756305, Eval Acc:0.869327
+epoch:251, Train Loss:0.017467, Train Acc:0.994857, Eval Loss: 0.758458, Eval Acc:0.872114
+epoch:252, Train Loss:0.025319, Train Acc:0.991428, Eval Loss: 0.758870, Eval Acc:0.870024
+epoch:253, Train Loss:0.022731, Train Acc:0.992555, Eval Loss: 0.813759, Eval Acc:0.859475
+epoch:254, Train Loss:0.025479, Train Acc:0.991722, Eval Loss: 0.818000, Eval Acc:0.862261
+epoch:255, Train Loss:0.023347, Train Acc:0.992147, Eval Loss: 0.774612, Eval Acc:0.869825
+epoch:256, Train Loss:0.021551, Train Acc:0.991967, Eval Loss: 0.727836, Eval Acc:0.874303
+epoch:257, Train Loss:0.014796, Train Acc:0.995069, Eval Loss: 0.861111, Eval Acc:0.861465
+epoch:258, Train Loss:0.019443, Train Acc:0.993388, Eval Loss: 0.811382, Eval Acc:0.868133
+epoch:259, Train Loss:0.012176, Train Acc:0.996228, Eval Loss: 0.806451, Eval Acc:0.871915
+epoch:260, Train Loss:0.014966, Train Acc:0.995494, Eval Loss: 0.897525, Eval Acc:0.858778
+epoch:261, Train Loss:0.024521, Train Acc:0.992196, Eval Loss: 0.829287, Eval Acc:0.866441
+epoch:262, Train Loss:0.022665, Train Acc:0.991967, Eval Loss: 0.812176, Eval Acc:0.861863
+epoch:263, Train Loss:0.017534, Train Acc:0.994122, Eval Loss: 0.813909, Eval Acc:0.869029
+epoch:264, Train Loss:0.014038, Train Acc:0.994922, Eval Loss: 0.816549, Eval Acc:0.870920
+training batch number:20, train:20376, valid:33290
+Unlabled pool max entropy:0.1370, min entropy:0.0134, delta:0.1236, Selection min entropy:0.1042
+training batch number:21, after selection train:21400, valid:32641
+epoch:265, Train Loss:0.055262, Train Acc:0.985401, Eval Loss: 0.688165, Eval Acc:0.870322
+epoch:266, Train Loss:0.023204, Train Acc:0.993563, Eval Loss: 0.701273, Eval Acc:0.872811
+epoch:267, Train Loss:0.017422, Train Acc:0.994496, Eval Loss: 0.755717, Eval Acc:0.871616
+epoch:268, Train Loss:0.018835, Train Acc:0.993797, Eval Loss: 0.757654, Eval Acc:0.866740
+epoch:269, Train Loss:0.018140, Train Acc:0.994076, Eval Loss: 0.744810, Eval Acc:0.869029
+epoch:270, Train Loss:0.018835, Train Acc:0.993937, Eval Loss: 0.736736, Eval Acc:0.871019
+epoch:271, Train Loss:0.014867, Train Acc:0.995305, Eval Loss: 0.759177, Eval Acc:0.867436
+epoch:272, Train Loss:0.016846, Train Acc:0.994216, Eval Loss: 0.759809, Eval Acc:0.873010
+epoch:273, Train Loss:0.022798, Train Acc:0.992304, Eval Loss: 0.827403, Eval Acc:0.865844
+epoch:274, Train Loss:0.017352, Train Acc:0.993703, Eval Loss: 0.775735, Eval Acc:0.872811
+epoch:275, Train Loss:0.015083, Train Acc:0.994885, Eval Loss: 0.776796, Eval Acc:0.877787
+epoch:276, Train Loss:0.015020, Train Acc:0.995103, Eval Loss: 0.886492, Eval Acc:0.863654
+epoch:277, Train Loss:0.019489, Train Acc:0.993455, Eval Loss: 0.874606, Eval Acc:0.862759
+epoch:278, Train Loss:0.020463, Train Acc:0.993408, Eval Loss: 0.755668, Eval Acc:0.877488
+epoch:279, Train Loss:0.015632, Train Acc:0.994869, Eval Loss: 0.851947, Eval Acc:0.870123
+epoch:280, Train Loss:0.012008, Train Acc:0.996424, Eval Loss: 0.781406, Eval Acc:0.878185
+epoch:281, Train Loss:0.017842, Train Acc:0.993781, Eval Loss: 0.845049, Eval Acc:0.869725
+epoch:282, Train Loss:0.022088, Train Acc:0.992786, Eval Loss: 0.796126, Eval Acc:0.875697
+training batch number:21, train:21400, valid:32641
+Unlabled pool max entropy:0.1228, min entropy:0.0000, delta:0.1228, Selection min entropy:0.0998
+training batch number:22, after selection train:22424, valid:31979
+epoch:283, Train Loss:0.047364, Train Acc:0.987461, Eval Loss: 0.623966, Eval Acc:0.877787
+epoch:284, Train Loss:0.018345, Train Acc:0.994614, Eval Loss: 0.717800, Eval Acc:0.878682
+epoch:285, Train Loss:0.016818, Train Acc:0.995474, Eval Loss: 0.784319, Eval Acc:0.868830
+epoch:286, Train Loss:0.019236, Train Acc:0.993901, Eval Loss: 0.724676, Eval Acc:0.873507
+epoch:287, Train Loss:0.016721, Train Acc:0.994317, Eval Loss: 0.761117, Eval Acc:0.874701
+epoch:288, Train Loss:0.022340, Train Acc:0.992076, Eval Loss: 0.770488, Eval Acc:0.874303
+epoch:289, Train Loss:0.013679, Train Acc:0.995771, Eval Loss: 0.767206, Eval Acc:0.869924
+epoch:290, Train Loss:0.018636, Train Acc:0.994183, Eval Loss: 0.774272, Eval Acc:0.871318
+epoch:291, Train Loss:0.020165, Train Acc:0.993634, Eval Loss: 0.794255, Eval Acc:0.869427
+epoch:292, Train Loss:0.011634, Train Acc:0.996231, Eval Loss: 0.768249, Eval Acc:0.875896
+epoch:293, Train Loss:0.013150, Train Acc:0.995726, Eval Loss: 0.788325, Eval Acc:0.872512
+epoch:294, Train Loss:0.015783, Train Acc:0.994673, Eval Loss: 0.798278, Eval Acc:0.871318
+epoch:295, Train Loss:0.019740, Train Acc:0.993026, Eval Loss: 0.827281, Eval Acc:0.872512
+epoch:296, Train Loss:0.013389, Train Acc:0.995504, Eval Loss: 0.794324, Eval Acc:0.871915
+epoch:297, Train Loss:0.015234, Train Acc:0.995370, Eval Loss: 0.829156, Eval Acc:0.870721
+epoch:298, Train Loss:0.015199, Train Acc:0.995237, Eval Loss: 0.780365, Eval Acc:0.878981
+epoch:299, Train Loss:0.011874, Train Acc:0.995682, Eval Loss: 0.873207, Eval Acc:0.867337
+epoch:300, Train Loss:0.017730, Train Acc:0.994539, Eval Loss: 0.775543, Eval Acc:0.877389
+epoch:301, Train Loss:0.019796, Train Acc:0.993456, Eval Loss: 0.823878, Eval Acc:0.873507
+training batch number:22, train:22424, valid:31979
+Unlabled pool max entropy:0.1293, min entropy:0.0087, delta:0.1206, Selection min entropy:0.0951
+training batch number:23, after selection train:23448, valid:31356
+epoch:302, Train Loss:0.041052, Train Acc:0.988349, Eval Loss: 0.673914, Eval Acc:0.875199
+epoch:303, Train Loss:0.021029, Train Acc:0.993571, Eval Loss: 0.678894, Eval Acc:0.876294
+epoch:304, Train Loss:0.016885, Train Acc:0.994934, Eval Loss: 0.707219, Eval Acc:0.876692
+epoch:305, Train Loss:0.013711, Train Acc:0.995913, Eval Loss: 0.723873, Eval Acc:0.882862
+epoch:306, Train Loss:0.012952, Train Acc:0.995572, Eval Loss: 0.742079, Eval Acc:0.880573
+epoch:307, Train Loss:0.016382, Train Acc:0.994636, Eval Loss: 0.745612, Eval Acc:0.878085
+epoch:308, Train Loss:0.013848, Train Acc:0.995061, Eval Loss: 0.776553, Eval Acc:0.873308
+epoch:309, Train Loss:0.017126, Train Acc:0.994338, Eval Loss: 0.766701, Eval Acc:0.876891
+epoch:310, Train Loss:0.016852, Train Acc:0.994465, Eval Loss: 0.814723, Eval Acc:0.874403
+epoch:311, Train Loss:0.013556, Train Acc:0.995955, Eval Loss: 0.801087, Eval Acc:0.875597
+epoch:312, Train Loss:0.008491, Train Acc:0.997190, Eval Loss: 0.781218, Eval Acc:0.879578
+epoch:313, Train Loss:0.013221, Train Acc:0.995487, Eval Loss: 0.853211, Eval Acc:0.869626
+epoch:314, Train Loss:0.017699, Train Acc:0.994338, Eval Loss: 0.812212, Eval Acc:0.869825
+epoch:315, Train Loss:0.017042, Train Acc:0.994593, Eval Loss: 0.823445, Eval Acc:0.867934
+epoch:316, Train Loss:0.013713, Train Acc:0.995444, Eval Loss: 0.752152, Eval Acc:0.883061
+epoch:317, Train Loss:0.012169, Train Acc:0.995955, Eval Loss: 0.760143, Eval Acc:0.880971
+epoch:318, Train Loss:0.010762, Train Acc:0.996168, Eval Loss: 0.872012, Eval Acc:0.872114
+epoch:319, Train Loss:0.012947, Train Acc:0.995402, Eval Loss: 0.833981, Eval Acc:0.878384
+epoch:320, Train Loss:0.011966, Train Acc:0.995615, Eval Loss: 0.860360, Eval Acc:0.874204
+epoch:321, Train Loss:0.012094, Train Acc:0.995870, Eval Loss: 0.803737, Eval Acc:0.879578
+training batch number:23, train:23448, valid:31356
+Unlabled pool max entropy:0.1302, min entropy:0.0041, delta:0.1262, Selection min entropy:0.0857
+training batch number:24, after selection train:24472, valid:30729
+epoch:322, Train Loss:0.042073, Train Acc:0.989189, Eval Loss: 0.697690, Eval Acc:0.870820
+epoch:323, Train Loss:0.021604, Train Acc:0.993649, Eval Loss: 0.715567, Eval Acc:0.873806
+epoch:324, Train Loss:0.015754, Train Acc:0.994982, Eval Loss: 0.671189, Eval Acc:0.882265
+epoch:325, Train Loss:0.013770, Train Acc:0.995798, Eval Loss: 0.741799, Eval Acc:0.875796
+epoch:326, Train Loss:0.011730, Train Acc:0.996084, Eval Loss: 0.712075, Eval Acc:0.880872
+epoch:327, Train Loss:0.012319, Train Acc:0.996260, Eval Loss: 0.785320, Eval Acc:0.876493
+epoch:328, Train Loss:0.019658, Train Acc:0.993105, Eval Loss: 0.763924, Eval Acc:0.878284
+epoch:329, Train Loss:0.012179, Train Acc:0.996002, Eval Loss: 0.752644, Eval Acc:0.879777
+epoch:330, Train Loss:0.011522, Train Acc:0.995852, Eval Loss: 0.759807, Eval Acc:0.883559
+epoch:331, Train Loss:0.012643, Train Acc:0.996002, Eval Loss: 0.788188, Eval Acc:0.877090
+epoch:332, Train Loss:0.013042, Train Acc:0.995920, Eval Loss: 0.771921, Eval Acc:0.882166
+epoch:333, Train Loss:0.017172, Train Acc:0.994819, Eval Loss: 0.794669, Eval Acc:0.875697
+epoch:334, Train Loss:0.012260, Train Acc:0.995961, Eval Loss: 0.746611, Eval Acc:0.880076
+epoch:335, Train Loss:0.010435, Train Acc:0.996424, Eval Loss: 0.795422, Eval Acc:0.877886
+epoch:336, Train Loss:0.012872, Train Acc:0.995689, Eval Loss: 0.776808, Eval Acc:0.880971
+epoch:337, Train Loss:0.012434, Train Acc:0.995635, Eval Loss: 0.791947, Eval Acc:0.880175
+epoch:338, Train Loss:0.012732, Train Acc:0.996043, Eval Loss: 0.821843, Eval Acc:0.877289
+epoch:339, Train Loss:0.007189, Train Acc:0.997919, Eval Loss: 0.824509, Eval Acc:0.879578
+epoch:340, Train Loss:0.010596, Train Acc:0.996206, Eval Loss: 0.882009, Eval Acc:0.875597
+epoch:341, Train Loss:0.016309, Train Acc:0.994615, Eval Loss: 0.811119, Eval Acc:0.877886
+training batch number:24, train:24472, valid:30729
+Unlabled pool max entropy:0.1333, min entropy:0.0028, delta:0.1304, Selection min entropy:0.0878
+training batch number:25, after selection train:25496, valid:30080
+epoch:342, Train Loss:0.035302, Train Acc:0.991698, Eval Loss: 0.724297, Eval Acc:0.878483
+epoch:343, Train Loss:0.022460, Train Acc:0.993343, Eval Loss: 0.703571, Eval Acc:0.881668
+epoch:344, Train Loss:0.013982, Train Acc:0.995614, Eval Loss: 0.758772, Eval Acc:0.877389
+epoch:345, Train Loss:0.012095, Train Acc:0.996162, Eval Loss: 0.740640, Eval Acc:0.881071
+epoch:346, Train Loss:0.010883, Train Acc:0.996123, Eval Loss: 0.747874, Eval Acc:0.882464
+epoch:347, Train Loss:0.011781, Train Acc:0.996567, Eval Loss: 0.822817, Eval Acc:0.876393
+epoch:348, Train Loss:0.012065, Train Acc:0.996123, Eval Loss: 0.766085, Eval Acc:0.882862
+epoch:349, Train Loss:0.015276, Train Acc:0.995301, Eval Loss: 0.787908, Eval Acc:0.879379
+epoch:350, Train Loss:0.015391, Train Acc:0.994674, Eval Loss: 0.772937, Eval Acc:0.882265
+epoch:351, Train Loss:0.011752, Train Acc:0.996528, Eval Loss: 0.774855, Eval Acc:0.879279
+epoch:352, Train Loss:0.013003, Train Acc:0.995575, Eval Loss: 0.808227, Eval Acc:0.877289
+epoch:353, Train Loss:0.009756, Train Acc:0.996671, Eval Loss: 0.788086, Eval Acc:0.881071
+epoch:354, Train Loss:0.005924, Train Acc:0.997924, Eval Loss: 0.880990, Eval Acc:0.876592
+epoch:355, Train Loss:0.011951, Train Acc:0.996319, Eval Loss: 0.785573, Eval Acc:0.882464
+epoch:356, Train Loss:0.013031, Train Acc:0.996162, Eval Loss: 0.810892, Eval Acc:0.881768
+epoch:357, Train Loss:0.013551, Train Acc:0.995222, Eval Loss: 0.844977, Eval Acc:0.874801
+epoch:358, Train Loss:0.012281, Train Acc:0.995771, Eval Loss: 0.841823, Eval Acc:0.875398
+epoch:359, Train Loss:0.012229, Train Acc:0.996241, Eval Loss: 0.767335, Eval Acc:0.883061
+epoch:360, Train Loss:0.006335, Train Acc:0.997846, Eval Loss: 0.768061, Eval Acc:0.887341
+epoch:361, Train Loss:0.010881, Train Acc:0.996476, Eval Loss: 0.902013, Eval Acc:0.871318
+training batch number:25, train:25496, valid:30080
+Unlabled pool max entropy:0.1041, min entropy:0.0028, delta:0.1012, Selection min entropy:0.0846
+training batch number:26, after selection train:26520, valid:29476
+epoch:362, Train Loss:0.030879, Train Acc:0.992169, Eval Loss: 0.701830, Eval Acc:0.880076
+epoch:363, Train Loss:0.014266, Train Acc:0.995595, Eval Loss: 0.767618, Eval Acc:0.880374
+epoch:364, Train Loss:0.010042, Train Acc:0.996498, Eval Loss: 0.738114, Eval Acc:0.884853
+epoch:365, Train Loss:0.010263, Train Acc:0.996498, Eval Loss: 0.817661, Eval Acc:0.878782
+epoch:366, Train Loss:0.011421, Train Acc:0.996197, Eval Loss: 0.805932, Eval Acc:0.881270
+epoch:367, Train Loss:0.012437, Train Acc:0.995934, Eval Loss: 0.726707, Eval Acc:0.885052
+epoch:368, Train Loss:0.011457, Train Acc:0.996762, Eval Loss: 0.799564, Eval Acc:0.879777
+epoch:369, Train Loss:0.008143, Train Acc:0.997252, Eval Loss: 0.852357, Eval Acc:0.874104
+epoch:370, Train Loss:0.014412, Train Acc:0.995294, Eval Loss: 0.820164, Eval Acc:0.880374
+epoch:371, Train Loss:0.008645, Train Acc:0.997252, Eval Loss: 0.800164, Eval Acc:0.885549
+epoch:372, Train Loss:0.009334, Train Acc:0.996649, Eval Loss: 0.843773, Eval Acc:0.881469
+epoch:373, Train Loss:0.012941, Train Acc:0.995633, Eval Loss: 0.820098, Eval Acc:0.877886
+epoch:374, Train Loss:0.014202, Train Acc:0.995494, Eval Loss: 0.782700, Eval Acc:0.881270
+epoch:375, Train Loss:0.009191, Train Acc:0.996888, Eval Loss: 0.804931, Eval Acc:0.881270
+epoch:376, Train Loss:0.011331, Train Acc:0.996059, Eval Loss: 0.859652, Eval Acc:0.883061
+epoch:377, Train Loss:0.015300, Train Acc:0.994880, Eval Loss: 0.818560, Eval Acc:0.874900
+epoch:378, Train Loss:0.008319, Train Acc:0.997327, Eval Loss: 0.787053, Eval Acc:0.885450
+epoch:379, Train Loss:0.005303, Train Acc:0.998419, Eval Loss: 0.891563, Eval Acc:0.879578
+epoch:380, Train Loss:0.012812, Train Acc:0.995532, Eval Loss: 0.810836, Eval Acc:0.880175
+epoch:381, Train Loss:0.011614, Train Acc:0.996348, Eval Loss: 0.824793, Eval Acc:0.880275
+epoch:382, Train Loss:0.007218, Train Acc:0.997515, Eval Loss: 0.758433, Eval Acc:0.887341
+training batch number:26, train:26520, valid:29476
+Unlabled pool max entropy:0.0898, min entropy:0.0006, delta:0.0892, Selection min entropy:0.0689
+training batch number:27, after selection train:27544, valid:28877
+epoch:383, Train Loss:0.033900, Train Acc:0.991082, Eval Loss: 0.654715, Eval Acc:0.879080
+epoch:384, Train Loss:0.015675, Train Acc:0.995432, Eval Loss: 0.704741, Eval Acc:0.883161
+epoch:385, Train Loss:0.013531, Train Acc:0.995940, Eval Loss: 0.723221, Eval Acc:0.884455
+epoch:386, Train Loss:0.010104, Train Acc:0.996483, Eval Loss: 0.762826, Eval Acc:0.883758
+epoch:387, Train Loss:0.010499, Train Acc:0.996556, Eval Loss: 0.762833, Eval Acc:0.883459
+epoch:388, Train Loss:0.008332, Train Acc:0.997354, Eval Loss: 0.761028, Eval Acc:0.888535
+epoch:389, Train Loss:0.015293, Train Acc:0.995142, Eval Loss: 0.754559, Eval Acc:0.884256
+epoch:390, Train Loss:0.008699, Train Acc:0.997402, Eval Loss: 0.767757, Eval Acc:0.886445
+epoch:391, Train Loss:0.009980, Train Acc:0.996810, Eval Loss: 0.771432, Eval Acc:0.887142
+epoch:392, Train Loss:0.009151, Train Acc:0.997281, Eval Loss: 0.820179, Eval Acc:0.883360
+epoch:393, Train Loss:0.010989, Train Acc:0.996411, Eval Loss: 0.808027, Eval Acc:0.881568
+epoch:394, Train Loss:0.008507, Train Acc:0.997100, Eval Loss: 0.807746, Eval Acc:0.881967
+epoch:395, Train Loss:0.011819, Train Acc:0.996266, Eval Loss: 0.752188, Eval Acc:0.886445
+epoch:396, Train Loss:0.009377, Train Acc:0.996604, Eval Loss: 0.831505, Eval Acc:0.880175
+epoch:397, Train Loss:0.012134, Train Acc:0.995541, Eval Loss: 0.752267, Eval Acc:0.885947
+epoch:398, Train Loss:0.006235, Train Acc:0.998115, Eval Loss: 0.778351, Eval Acc:0.887142
+epoch:399, Train Loss:0.011226, Train Acc:0.996278, Eval Loss: 0.764355, Eval Acc:0.890127
+epoch:400, Train Loss:0.011142, Train Acc:0.995976, Eval Loss: 0.793915, Eval Acc:0.887938
+epoch:401, Train Loss:0.008449, Train Acc:0.997136, Eval Loss: 0.820600, Eval Acc:0.882365
+epoch:402, Train Loss:0.008565, Train Acc:0.997402, Eval Loss: 0.845901, Eval Acc:0.878085
+epoch:403, Train Loss:0.012323, Train Acc:0.996012, Eval Loss: 0.788548, Eval Acc:0.886943
+epoch:404, Train Loss:0.005906, Train Acc:0.997934, Eval Loss: 0.831260, Eval Acc:0.889232
+training batch number:27, train:27544, valid:28877
+Unlabled pool max entropy:0.0955, min entropy:0.0017, delta:0.0938, Selection min entropy:0.0645
+training batch number:28, after selection train:28568, valid:28292
+epoch:405, Train Loss:0.027983, Train Acc:0.992729, Eval Loss: 0.754540, Eval Acc:0.878981
+epoch:406, Train Loss:0.017341, Train Acc:0.995351, Eval Loss: 0.696207, Eval Acc:0.886445
+epoch:407, Train Loss:0.009233, Train Acc:0.997553, Eval Loss: 0.724164, Eval Acc:0.889331
+epoch:408, Train Loss:0.007931, Train Acc:0.997273, Eval Loss: 0.715553, Eval Acc:0.890625
+epoch:409, Train Loss:0.010933, Train Acc:0.996621, Eval Loss: 0.758394, Eval Acc:0.887938
+epoch:410, Train Loss:0.009376, Train Acc:0.997029, Eval Loss: 0.788635, Eval Acc:0.883459
+epoch:411, Train Loss:0.011445, Train Acc:0.996400, Eval Loss: 0.787145, Eval Acc:0.882066
+epoch:412, Train Loss:0.009366, Train Acc:0.996749, Eval Loss: 0.796475, Eval Acc:0.887042
+epoch:413, Train Loss:0.008605, Train Acc:0.996936, Eval Loss: 0.816792, Eval Acc:0.886744
+epoch:414, Train Loss:0.009619, Train Acc:0.996749, Eval Loss: 0.829432, Eval Acc:0.880971
+epoch:415, Train Loss:0.011052, Train Acc:0.996539, Eval Loss: 0.774322, Eval Acc:0.889729
+epoch:416, Train Loss:0.009574, Train Acc:0.996994, Eval Loss: 0.812352, Eval Acc:0.887142
+epoch:417, Train Loss:0.008715, Train Acc:0.997099, Eval Loss: 0.788106, Eval Acc:0.888436
+epoch:418, Train Loss:0.009989, Train Acc:0.996260, Eval Loss: 0.766090, Eval Acc:0.877488
+epoch:419, Train Loss:0.007785, Train Acc:0.997658, Eval Loss: 0.832062, Eval Acc:0.882265
+epoch:420, Train Loss:0.009612, Train Acc:0.996889, Eval Loss: 0.777218, Eval Acc:0.886644
+epoch:421, Train Loss:0.005968, Train Acc:0.997984, Eval Loss: 0.795177, Eval Acc:0.887540
+epoch:422, Train Loss:0.010849, Train Acc:0.996644, Eval Loss: 0.782789, Eval Acc:0.892018
+epoch:423, Train Loss:0.009924, Train Acc:0.997005, Eval Loss: 0.836458, Eval Acc:0.886445
+epoch:424, Train Loss:0.011703, Train Acc:0.995980, Eval Loss: 0.778346, Eval Acc:0.890127
+epoch:425, Train Loss:0.006131, Train Acc:0.998019, Eval Loss: 0.790425, Eval Acc:0.894108
+epoch:426, Train Loss:0.008428, Train Acc:0.997029, Eval Loss: 0.840899, Eval Acc:0.885848
+training batch number:28, train:28568, valid:28292
+Unlabled pool max entropy:0.1010, min entropy:0.0006, delta:0.1005, Selection min entropy:0.0628
+training batch number:29, after selection train:29532, valid:27750
+epoch:427, Train Loss:0.025532, Train Acc:0.992593, Eval Loss: 0.726876, Eval Acc:0.886346
+epoch:428, Train Loss:0.011942, Train Acc:0.996449, Eval Loss: 0.690658, Eval Acc:0.894307
+epoch:429, Train Loss:0.007754, Train Acc:0.997700, Eval Loss: 0.746854, Eval Acc:0.888933
+epoch:430, Train Loss:0.008011, Train Acc:0.997497, Eval Loss: 0.771577, Eval Acc:0.889431
+epoch:431, Train Loss:0.007682, Train Acc:0.997362, Eval Loss: 0.738975, Eval Acc:0.891521
+epoch:432, Train Loss:0.011713, Train Acc:0.996178, Eval Loss: 0.771737, Eval Acc:0.891620
+epoch:433, Train Loss:0.008530, Train Acc:0.997227, Eval Loss: 0.747549, Eval Acc:0.888535
+epoch:434, Train Loss:0.009036, Train Acc:0.996990, Eval Loss: 0.760637, Eval Acc:0.886146
+epoch:435, Train Loss:0.008281, Train Acc:0.997227, Eval Loss: 0.833816, Eval Acc:0.882365
+epoch:436, Train Loss:0.009319, Train Acc:0.996889, Eval Loss: 0.814127, Eval Acc:0.885450
+epoch:437, Train Loss:0.006091, Train Acc:0.997971, Eval Loss: 0.878915, Eval Acc:0.884057
+epoch:438, Train Loss:0.007835, Train Acc:0.997227, Eval Loss: 0.853665, Eval Acc:0.886545
+epoch:439, Train Loss:0.009618, Train Acc:0.996550, Eval Loss: 0.913555, Eval Acc:0.882365
+epoch:440, Train Loss:0.010514, Train Acc:0.996922, Eval Loss: 0.807810, Eval Acc:0.890326
+epoch:441, Train Loss:0.006426, Train Acc:0.997700, Eval Loss: 0.826339, Eval Acc:0.891023
+epoch:442, Train Loss:0.011007, Train Acc:0.996550, Eval Loss: 0.843082, Eval Acc:0.884952
+epoch:443, Train Loss:0.007730, Train Acc:0.997633, Eval Loss: 0.760465, Eval Acc:0.889431
+epoch:444, Train Loss:0.008695, Train Acc:0.997328, Eval Loss: 0.824153, Eval Acc:0.886047
+epoch:445, Train Loss:0.008959, Train Acc:0.997125, Eval Loss: 0.791548, Eval Acc:0.888834
+epoch:446, Train Loss:0.006828, Train Acc:0.997768, Eval Loss: 0.782640, Eval Acc:0.893014
+epoch:447, Train Loss:0.006895, Train Acc:0.997869, Eval Loss: 0.873754, Eval Acc:0.889132
+epoch:448, Train Loss:0.006619, Train Acc:0.997903, Eval Loss: 0.883834, Eval Acc:0.883260
+training batch number:29, train:29532, valid:27750
+Unlabled pool max entropy:0.1029, min entropy:0.0005, delta:0.1024, Selection min entropy:0.0623
+training batch number:30, after selection train:30556, valid:27210
+epoch:449, Train Loss:0.024746, Train Acc:0.993691, Eval Loss: 0.812658, Eval Acc:0.878881
+epoch:450, Train Loss:0.013107, Train Acc:0.995970, Eval Loss: 0.706794, Eval Acc:0.892814
+epoch:451, Train Loss:0.008465, Train Acc:0.997189, Eval Loss: 0.800693, Eval Acc:0.889928
+epoch:452, Train Loss:0.009019, Train Acc:0.996820, Eval Loss: 0.718262, Eval Acc:0.889630
+epoch:453, Train Loss:0.006614, Train Acc:0.997875, Eval Loss: 0.779990, Eval Acc:0.893014
+epoch:454, Train Loss:0.010199, Train Acc:0.996731, Eval Loss: 0.718476, Eval Acc:0.892715
+epoch:455, Train Loss:0.007329, Train Acc:0.997614, Eval Loss: 0.841723, Eval Acc:0.885549
+epoch:456, Train Loss:0.009622, Train Acc:0.997058, Eval Loss: 0.817305, Eval Acc:0.889331
+epoch:457, Train Loss:0.008378, Train Acc:0.997310, Eval Loss: 0.768861, Eval Acc:0.894307
+epoch:458, Train Loss:0.007004, Train Acc:0.997712, Eval Loss: 0.773443, Eval Acc:0.888933
+epoch:459, Train Loss:0.006953, Train Acc:0.997646, Eval Loss: 0.763056, Eval Acc:0.888236
+epoch:460, Train Loss:0.011509, Train Acc:0.996437, Eval Loss: 0.779527, Eval Acc:0.887938
+epoch:461, Train Loss:0.004985, Train Acc:0.998478, Eval Loss: 0.757774, Eval Acc:0.892814
+epoch:462, Train Loss:0.009039, Train Acc:0.997156, Eval Loss: 0.775059, Eval Acc:0.889033
+epoch:463, Train Loss:0.007813, Train Acc:0.997320, Eval Loss: 0.819662, Eval Acc:0.888535
+epoch:464, Train Loss:0.008691, Train Acc:0.997212, Eval Loss: 0.781183, Eval Acc:0.888734
+epoch:465, Train Loss:0.009161, Train Acc:0.996764, Eval Loss: 0.785044, Eval Acc:0.890924
+epoch:466, Train Loss:0.008911, Train Acc:0.997025, Eval Loss: 0.827343, Eval Acc:0.887739
+epoch:467, Train Loss:0.007196, Train Acc:0.997941, Eval Loss: 0.760539, Eval Acc:0.890426
+epoch:468, Train Loss:0.003582, Train Acc:0.998921, Eval Loss: 0.792800, Eval Acc:0.894805
+epoch:469, Train Loss:0.007399, Train Acc:0.997646, Eval Loss: 0.861421, Eval Acc:0.886346
+epoch:470, Train Loss:0.006416, Train Acc:0.997973, Eval Loss: 0.887559, Eval Acc:0.886047
+epoch:471, Train Loss:0.011962, Train Acc:0.995685, Eval Loss: 0.829312, Eval Acc:0.883459
+training batch number:30, train:30556, valid:27210
+Unlabled pool max entropy:0.1136, min entropy:0.0007, delta:0.1130, Selection min entropy:0.0533
+training batch number:31, after selection train:31526, valid:26669
+epoch:472, Train Loss:0.017248, Train Acc:0.995309, Eval Loss: 0.747305, Eval Acc:0.884853
+epoch:473, Train Loss:0.009445, Train Acc:0.997211, Eval Loss: 0.707762, Eval Acc:0.890725
+epoch:474, Train Loss:0.006293, Train Acc:0.998193, Eval Loss: 0.730725, Eval Acc:0.893014
+epoch:475, Train Loss:0.007270, Train Acc:0.997750, Eval Loss: 0.791761, Eval Acc:0.890725
+epoch:476, Train Loss:0.009761, Train Acc:0.997148, Eval Loss: 0.750106, Eval Acc:0.892217
+epoch:477, Train Loss:0.007378, Train Acc:0.997655, Eval Loss: 0.765636, Eval Acc:0.888535
+epoch:478, Train Loss:0.008281, Train Acc:0.997369, Eval Loss: 0.780261, Eval Acc:0.892317
+epoch:479, Train Loss:0.008141, Train Acc:0.997465, Eval Loss: 0.806526, Eval Acc:0.892516
+epoch:480, Train Loss:0.005413, Train Acc:0.998352, Eval Loss: 0.783760, Eval Acc:0.893909
+epoch:481, Train Loss:0.008822, Train Acc:0.997148, Eval Loss: 0.846665, Eval Acc:0.891322
+epoch:482, Train Loss:0.006589, Train Acc:0.997813, Eval Loss: 0.802335, Eval Acc:0.892814
+epoch:483, Train Loss:0.008021, Train Acc:0.997179, Eval Loss: 0.792606, Eval Acc:0.888933
+epoch:484, Train Loss:0.006452, Train Acc:0.997877, Eval Loss: 0.842543, Eval Acc:0.885450
+epoch:485, Train Loss:0.008776, Train Acc:0.996799, Eval Loss: 0.829701, Eval Acc:0.884256
+epoch:486, Train Loss:0.006031, Train Acc:0.998162, Eval Loss: 0.849112, Eval Acc:0.889033
+epoch:487, Train Loss:0.006650, Train Acc:0.997877, Eval Loss: 0.858059, Eval Acc:0.890426
+epoch:488, Train Loss:0.005731, Train Acc:0.998289, Eval Loss: 0.782475, Eval Acc:0.893312
+epoch:489, Train Loss:0.004943, Train Acc:0.998637, Eval Loss: 0.811746, Eval Acc:0.893909
+epoch:490, Train Loss:0.007255, Train Acc:0.997665, Eval Loss: 0.860179, Eval Acc:0.890525
+epoch:491, Train Loss:0.012353, Train Acc:0.996038, Eval Loss: 0.829695, Eval Acc:0.891919
+epoch:492, Train Loss:0.006549, Train Acc:0.998003, Eval Loss: 0.779957, Eval Acc:0.892217
+epoch:493, Train Loss:0.007748, Train Acc:0.997496, Eval Loss: 0.831605, Eval Acc:0.892814
+epoch:494, Train Loss:0.006069, Train Acc:0.997950, Eval Loss: 0.784274, Eval Acc:0.894307
+epoch:495, Train Loss:0.006893, Train Acc:0.997623, Eval Loss: 0.805046, Eval Acc:0.891919
+training batch number:31, train:31526, valid:26669
+Unlabled pool max entropy:0.0785, min entropy:0.0008, delta:0.0776, Selection min entropy:0.0495
+training batch number:32, after selection train:32550, valid:26124
+epoch:496, Train Loss:0.021435, Train Acc:0.994843, Eval Loss: 0.763136, Eval Acc:0.887739
+epoch:497, Train Loss:0.009158, Train Acc:0.997145, Eval Loss: 0.714631, Eval Acc:0.892118
+epoch:498, Train Loss:0.006162, Train Acc:0.998066, Eval Loss: 0.747588, Eval Acc:0.892217
+epoch:499, Train Loss:0.009351, Train Acc:0.997391, Eval Loss: 0.706734, Eval Acc:0.896596
+epoch:500, Train Loss:0.007173, Train Acc:0.997913, Eval Loss: 0.699989, Eval Acc:0.895303
+epoch:501, Train Loss:0.008029, Train Acc:0.997268, Eval Loss: 0.783341, Eval Acc:0.894009
+epoch:502, Train Loss:0.007201, Train Acc:0.998005, Eval Loss: 0.740031, Eval Acc:0.894108
+epoch:503, Train Loss:0.006395, Train Acc:0.997943, Eval Loss: 0.807798, Eval Acc:0.892317
+epoch:504, Train Loss:0.007900, Train Acc:0.997421, Eval Loss: 0.768244, Eval Acc:0.894108
+epoch:505, Train Loss:0.005364, Train Acc:0.998281, Eval Loss: 0.733726, Eval Acc:0.898388
+epoch:506, Train Loss:0.005482, Train Acc:0.998342, Eval Loss: 0.772151, Eval Acc:0.894904
+epoch:507, Train Loss:0.006377, Train Acc:0.997759, Eval Loss: 0.806268, Eval Acc:0.890525
+epoch:508, Train Loss:0.006988, Train Acc:0.997606, Eval Loss: 0.854478, Eval Acc:0.886545
+epoch:509, Train Loss:0.006634, Train Acc:0.997667, Eval Loss: 0.904891, Eval Acc:0.886047
+epoch:510, Train Loss:0.006570, Train Acc:0.998035, Eval Loss: 0.780917, Eval Acc:0.899781
+epoch:511, Train Loss:0.009301, Train Acc:0.997032, Eval Loss: 0.769783, Eval Acc:0.898786
+epoch:512, Train Loss:0.006802, Train Acc:0.997462, Eval Loss: 0.805199, Eval Acc:0.892914
+epoch:513, Train Loss:0.005046, Train Acc:0.998312, Eval Loss: 0.793833, Eval Acc:0.893611
+epoch:514, Train Loss:0.006271, Train Acc:0.998066, Eval Loss: 0.820934, Eval Acc:0.895601
+epoch:515, Train Loss:0.005946, Train Acc:0.998250, Eval Loss: 0.807878, Eval Acc:0.894506
+epoch:516, Train Loss:0.008187, Train Acc:0.997575, Eval Loss: 0.781696, Eval Acc:0.893113
+epoch:517, Train Loss:0.006476, Train Acc:0.997698, Eval Loss: 0.809154, Eval Acc:0.894009
+epoch:518, Train Loss:0.006305, Train Acc:0.997851, Eval Loss: 0.786907, Eval Acc:0.897193
+epoch:519, Train Loss:0.007475, Train Acc:0.997667, Eval Loss: 0.809912, Eval Acc:0.893909
+training batch number:32, train:32550, valid:26124
+Unlabled pool max entropy:0.0695, min entropy:0.0002, delta:0.0692, Selection min entropy:0.0462
+training batch number:33, after selection train:33574, valid:25586
+epoch:520, Train Loss:0.018437, Train Acc:0.995149, Eval Loss: 0.693538, Eval Acc:0.891620
+epoch:521, Train Loss:0.008595, Train Acc:0.997440, Eval Loss: 0.755585, Eval Acc:0.891023
+epoch:522, Train Loss:0.008423, Train Acc:0.997292, Eval Loss: 0.780368, Eval Acc:0.886346
+epoch:523, Train Loss:0.006831, Train Acc:0.997798, Eval Loss: 0.762619, Eval Acc:0.893113
+epoch:524, Train Loss:0.004592, Train Acc:0.998423, Eval Loss: 0.753205, Eval Acc:0.894606
+epoch:525, Train Loss:0.006191, Train Acc:0.997976, Eval Loss: 0.749081, Eval Acc:0.895303
+epoch:526, Train Loss:0.006395, Train Acc:0.997837, Eval Loss: 0.907242, Eval Acc:0.885947
+epoch:527, Train Loss:0.010495, Train Acc:0.996845, Eval Loss: 0.804566, Eval Acc:0.890725
+epoch:528, Train Loss:0.005578, Train Acc:0.998304, Eval Loss: 0.819128, Eval Acc:0.889928
+epoch:529, Train Loss:0.004751, Train Acc:0.998542, Eval Loss: 0.813769, Eval Acc:0.893312
+epoch:530, Train Loss:0.005972, Train Acc:0.998155, Eval Loss: 0.840656, Eval Acc:0.887739
+epoch:531, Train Loss:0.008252, Train Acc:0.997321, Eval Loss: 0.845150, Eval Acc:0.887838
+epoch:532, Train Loss:0.005768, Train Acc:0.997946, Eval Loss: 0.801831, Eval Acc:0.893511
+epoch:533, Train Loss:0.004969, Train Acc:0.998542, Eval Loss: 0.856560, Eval Acc:0.893909
+epoch:534, Train Loss:0.006679, Train Acc:0.997798, Eval Loss: 0.779916, Eval Acc:0.895601
+epoch:535, Train Loss:0.006775, Train Acc:0.997708, Eval Loss: 0.760181, Eval Acc:0.898189
+epoch:536, Train Loss:0.005009, Train Acc:0.998155, Eval Loss: 0.832459, Eval Acc:0.892914
+epoch:537, Train Loss:0.007310, Train Acc:0.997500, Eval Loss: 0.839354, Eval Acc:0.891720
+epoch:538, Train Loss:0.008052, Train Acc:0.997411, Eval Loss: 0.815569, Eval Acc:0.894904
+epoch:539, Train Loss:0.004995, Train Acc:0.998244, Eval Loss: 0.823334, Eval Acc:0.892018
+epoch:540, Train Loss:0.007228, Train Acc:0.997708, Eval Loss: 0.837045, Eval Acc:0.890625
+epoch:541, Train Loss:0.006408, Train Acc:0.998036, Eval Loss: 0.770538, Eval Acc:0.894009
+epoch:542, Train Loss:0.005035, Train Acc:0.998393, Eval Loss: 0.790862, Eval Acc:0.895303
+epoch:543, Train Loss:0.006586, Train Acc:0.997649, Eval Loss: 0.791662, Eval Acc:0.893611
+training batch number:33, train:33574, valid:25586
+Unlabled pool max entropy:0.0757, min entropy:0.0001, delta:0.0756, Selection min entropy:0.0471
+training batch number:34, after selection train:34598, valid:25055
+epoch:544, Train Loss:0.019053, Train Acc:0.995090, Eval Loss: 0.702446, Eval Acc:0.893710
+epoch:545, Train Loss:0.006369, Train Acc:0.998065, Eval Loss: 0.712182, Eval Acc:0.897094
+epoch:546, Train Loss:0.006556, Train Acc:0.997872, Eval Loss: 0.774303, Eval Acc:0.896795
+epoch:547, Train Loss:0.005600, Train Acc:0.998383, Eval Loss: 0.730752, Eval Acc:0.897492
+epoch:548, Train Loss:0.005699, Train Acc:0.998132, Eval Loss: 0.798312, Eval Acc:0.891919
+epoch:549, Train Loss:0.010151, Train Acc:0.996630, Eval Loss: 0.792385, Eval Acc:0.892018
+epoch:550, Train Loss:0.005236, Train Acc:0.998527, Eval Loss: 0.783017, Eval Acc:0.894705
+epoch:551, Train Loss:0.003579, Train Acc:0.998700, Eval Loss: 0.791138, Eval Acc:0.898388
+epoch:552, Train Loss:0.005084, Train Acc:0.998325, Eval Loss: 0.848033, Eval Acc:0.893014
+epoch:553, Train Loss:0.005702, Train Acc:0.998065, Eval Loss: 0.788720, Eval Acc:0.894208
+epoch:554, Train Loss:0.007830, Train Acc:0.997372, Eval Loss: 0.817262, Eval Acc:0.895203
+epoch:555, Train Loss:0.007483, Train Acc:0.997343, Eval Loss: 0.788772, Eval Acc:0.894506
+epoch:556, Train Loss:0.005515, Train Acc:0.997863, Eval Loss: 0.800829, Eval Acc:0.897094
+epoch:557, Train Loss:0.005855, Train Acc:0.998065, Eval Loss: 0.814224, Eval Acc:0.897890
+epoch:558, Train Loss:0.004209, Train Acc:0.998700, Eval Loss: 0.764570, Eval Acc:0.898686
+epoch:559, Train Loss:0.004958, Train Acc:0.998412, Eval Loss: 0.784516, Eval Acc:0.893710
+epoch:560, Train Loss:0.008039, Train Acc:0.997458, Eval Loss: 0.796388, Eval Acc:0.892317
+epoch:561, Train Loss:0.004922, Train Acc:0.998296, Eval Loss: 0.792154, Eval Acc:0.894307
+epoch:562, Train Loss:0.004935, Train Acc:0.998469, Eval Loss: 0.789214, Eval Acc:0.893810
+epoch:563, Train Loss:0.006044, Train Acc:0.998123, Eval Loss: 0.848681, Eval Acc:0.893511
+epoch:564, Train Loss:0.005610, Train Acc:0.998152, Eval Loss: 0.803420, Eval Acc:0.894805
+epoch:565, Train Loss:0.006711, Train Acc:0.997747, Eval Loss: 0.820559, Eval Acc:0.896198
+epoch:566, Train Loss:0.005418, Train Acc:0.998152, Eval Loss: 0.875456, Eval Acc:0.891521
+epoch:567, Train Loss:0.006541, Train Acc:0.997805, Eval Loss: 0.788597, Eval Acc:0.898388
+epoch:568, Train Loss:0.005158, Train Acc:0.998209, Eval Loss: 0.914018, Eval Acc:0.889431
+training batch number:34, train:34598, valid:25055
+Unlabled pool max entropy:0.0719, min entropy:0.0002, delta:0.0717, Selection min entropy:0.0461
+training batch number:35, after selection train:35622, valid:24547
+epoch:569, Train Loss:0.015941, Train Acc:0.995484, Eval Loss: 0.721200, Eval Acc:0.896497
+epoch:570, Train Loss:0.007967, Train Acc:0.997588, Eval Loss: 0.710477, Eval Acc:0.895800
+epoch:571, Train Loss:0.006493, Train Acc:0.997952, Eval Loss: 0.707564, Eval Acc:0.898189
+epoch:572, Train Loss:0.005107, Train Acc:0.998457, Eval Loss: 0.736902, Eval Acc:0.900279
+
+Process finished with exit code 0
+
